@@ -49,6 +49,13 @@ include:
 timezone: America/Los_Angeles
 
 collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lectures:
+    output: true
+    permalink: /lectures/:path/
   info:
     output: true
     permalink: /info/:path/
