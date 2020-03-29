@@ -3,7 +3,6 @@ title: "CMPTGCS 20C: Video Game Design for Non Majors"
 ---
 
 # {{page.title}}
-## {{site.qtr}}, {{site.instructor}}
 
 <!-- info -->
 {% include collapse-card-begin.html label="Course Information" id="info" %}
@@ -11,13 +10,6 @@ title: "CMPTGCS 20C: Video Game Design for Non Majors"
 {% include info_list.html %}
 {% include collapse-card-end.html %}
 <!-- end-info -->
-
-<!-- labs -->
-{% include collapse-card-begin.html label="Labs" id="labs" %}
-## Labs
-{% include lab_table.html %}
-{% include collapse-card-end.html %}
-<!-- end-labs -->
 
 <!-- hwk -->
 {% include collapse-card-begin.html label="Homework" id="hwk" %}
