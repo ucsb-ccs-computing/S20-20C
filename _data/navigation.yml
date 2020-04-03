@@ -42,5 +42,5 @@ offering_links:
      description: "Assignment Calendar"
    - title: Github
      dropdown:
-         - title: W20-130H
-           url: https://github.com/ucsb-ccs-computing/W20-130H
+         - title: S20-20C
+           url: https://github.com/ucsb-ccs-computing/S20-20C
